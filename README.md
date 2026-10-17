@@ -1,7 +1,9 @@
-# about me
-Hello i'm Man or Name
+# 👋 About Me
 
-I coding this projects without any Collages or Uni
+Hello! I'm Man (or Name).
 
-Languages i code: 
-!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
+I'm a self-taught developer who builds projects without attending college or university. I learn by coding, experimenting, and building projects.
+
+## 💻 Languages & Technologies
+
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
