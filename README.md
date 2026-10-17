@@ -6,4 +6,4 @@ I'm a self-taught developer who builds projects without attending college or uni
 
 ## 💻 Languages & Technologies
 
-![](./images/css.png)
+![](./images/css.png)(./images/python.png)
