@@ -6,4 +6,4 @@ I'm a self-taught developer who builds projects without attending college or uni
 
 ## 💻 Languages & Technologies
 
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
+![CSS3](.\images\css.png)
